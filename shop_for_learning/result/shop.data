@@ -1,0 +1,6 @@
+classes = 1
+train = /home/sel/hw/way_shop/shop_for_learning/txt/train.txt
+valid = /home/sel/hw/way_shop/shop_for_learning/txt/valid.txt
+names = /home/sel/hw/way_shop/shop_for_learning/result/shop.names
+backup = /home/sel/hw/way_shop/shop_for_learning/weights
+
